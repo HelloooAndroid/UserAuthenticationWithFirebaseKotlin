@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158482249838",
+    "firebase_url": "https://fir-authgit.firebaseio.com",
+    "project_id": "fir-authgit",
+    "storage_bucket": "fir-authgit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158482249838:android:a61e25ee4019e2337e0e7f",
+        "android_client_info": {
+          "package_name": "com.seeker.userauthenticationwithfirebasekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158482249838-rkkui4as4qr0i0852o11c1shdr7o42do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.seeker.userauthenticationwithfirebasekotlin",
+            "certificate_hash": "37a3791e043edda5c5d059515e12542953c165b7"
+          }
+        },
+        {
+          "client_id": "158482249838-csm4luv0po5qpgie7tcohdflrgjkleav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1orx5ZFigb0R4rwkrxqPQllKC4IvNR9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158482249838-csm4luv0po5qpgie7tcohdflrgjkleav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
